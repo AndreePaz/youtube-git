@@ -1,0 +1,91 @@
+commit dab6725f82c4f5953b3b44d82afefc38b58fe90e
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Thu Jun 6 21:38:28 2024 -0500
+
+    Agregando 2 párrafos
+
+commit 60fd5e6921336977f4bc75e7d040a6b1f477cd63
+Merge: e7f02bf d20372e
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Thu Jun 6 21:35:12 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit e7f02bfe4528e3259d11b3fbb519df0ce583cf6e
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Thu Jun 6 21:18:30 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit d20372e0bb2b31cab96af5898cb013b1d89f63ce
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Thu Jun 6 21:18:30 2024 -0500
+
+    Agregando las estaciones del año
+
+commit 7108a82afe4b3eaedb9361afe899db7d25f19d9f
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Thu Jun 6 21:16:31 2024 -0500
+
+    Agregando otra vez css y js
+
+commit f79ddf6f6edf9b386ce42d503b416448f9559166
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Mon Jun 3 22:34:17 2024 -0500
+
+    Agregando index.js al index.html
+
+commit 7c3929a994925df36dfb8d8da0bd73a1d26feb31
+Merge: 32646f8 da8428d
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Mon Jun 3 22:11:56 2024 -0500
+
+    Merge branch 'js'
+
+commit da8428d385c87690db9afe5571e586740e036126
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Mon Jun 3 22:07:49 2024 -0500
+
+    Creando index.js
+
+commit 32646f86440bec5c86f45286504257662eacedda
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Mon Jun 3 22:02:06 2024 -0500
+
+    Creando style.css
+
+commit 2f7315a8f7da7bc1050a0e625a11e32bad79c665
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Mon Jun 3 21:58:36 2024 -0500
+
+    Creando index.html
+
+commit 1683c14c5998e227c2552c38b878a9b7c430e5dd
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Fri May 31 22:11:44 2024 -0500
+
+    Ignorando archivos
+
+commit 5eb2cb490fcd17850bf7feb0b92a8b65fd913977
+Author: AndreePaz <pluisandree89@gmail.com>
+Date:   Wed May 29 19:31:40 2024 -0500
+
+    Creando una licencia de repositorio
+
+commit 39c009712187d9c98c3a378bd6906cb7336dcf0d
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Wed May 29 18:02:51 2024 -0500
+
+    Agregando más contenido
+
+commit 565f05dead5a0411371d8f857282ba7349f5bd4f
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Wed May 29 17:39:08 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit 22db68559708a045eb2de7ab4cc73baeaa728c9a
+Author: Andreé Paz <pluisandree89@gmail.com>
+Date:   Wed May 29 17:31:15 2024 -0500
+
+    Primer commit 🤑
